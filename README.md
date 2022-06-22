@@ -1,1 +1,1 @@
-# PELSA-staurosporine-anlysis
+# PELSA staurosporine anlysis
